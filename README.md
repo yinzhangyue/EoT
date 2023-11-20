@@ -43,7 +43,7 @@ Please make sure you have the following requirements installed:
 
 
 ## Quick Start 🚀
-We are currently organizing our code and the prompts for various datasets, which will be released in the near future. Stay tuned! 🌹
+We are currently organizing our code and the prompts, which will be released in the near future. Stay tuned! 🌹
 
 
 ## Bug or Questions? 🤔
