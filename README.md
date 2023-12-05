@@ -2,12 +2,12 @@
 ![License](https://img.shields.io/badge/License-Apache%20License%202.0-green)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 
-EMNLP 2023: [Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication]()
+EMNLP 2023: [Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication](https://arxiv.org/abs/2312.01823)
 
 
 ## Introduction 📝
 
-This repository contains the code and data related to the paper "[Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication]()". In this paper, we introduce a novel cross-model communication framework that incorporates solutions from other models as external insights in problem-solving. Drawing from network topology, we propose four types of communication paradigms: Memory, Report, Relay, and Debate. We also present a confidence evaluation to mitigate the influence of unreliable ideas during the problem-solving process.
+This repository contains the code and data related to the paper "[Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication](https://arxiv.org/pdf/2312.01823.pdf)". In this paper, we introduce a novel cross-model communication framework that incorporates solutions from other models as external insights in problem-solving. Drawing from network topology, we propose four types of communication paradigms: Memory, Report, Relay, and Debate. We also present a confidence evaluation to mitigate the influence of unreliable ideas during the problem-solving process.
 ![Cover](figures/cover.png)
 
 
@@ -55,4 +55,12 @@ If you have any suggestions or questions, feel free to email us at yinzhangyue@1
 
 If you are interested in our work, please use the following citation format when referencing our paper:
 ```bibtex
+@misc{yin2023exchangeofthought,
+      title={Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication}, 
+      author={Zhangyue Yin and Qiushi Sun and Cheng Chang and Qipeng Guo and Junqi Dai and Xuanjing Huang and Xipeng Qiu},
+      year={2023},
+      eprint={2312.01823},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
