@@ -55,12 +55,24 @@ If you have any suggestions or questions, feel free to email us at yinzhangyue@1
 
 If you are interested in our work, please use the following citation format when referencing our paper:
 ```bibtex
-@misc{yin2023exchangeofthought,
-      title={Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication}, 
-      author={Zhangyue Yin and Qiushi Sun and Cheng Chang and Qipeng Guo and Junqi Dai and Xuanjing Huang and Xipeng Qiu},
-      year={2023},
-      eprint={2312.01823},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{yin2023exchange,
+    title     = "Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication",
+    author    = "Yin, Zhangyue  and
+      Sun, Qiushi  and
+      Chang, Cheng  and
+      Guo, Qipeng  and
+      Dai, Junqi  and
+      Huang, Xuanjing  and
+      Qiu, Xipeng",
+    editor    = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month     = dec,
+    year      = "2023",
+    address   = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url       = "https://aclanthology.org/2023.emnlp-main.936",
+    pages     = "15135--15153",
 }
 ```
