@@ -22,6 +22,7 @@ This repository contains the code and data related to the paper "[Exchange-of-Th
   - [Requirements 📚](#requirements-)
   - [Data 💾](#data-)
   - [Quick Start 🚀](#quick-start-)
+    - [Tips](#tips)
   - [Evaluation 💻](#evaluation-)
   - [Bug or Questions? 🤔](#bug-or-questions-)
   - [Citation 📖](#citation-)
@@ -69,6 +70,8 @@ When running `eot.py`, you can customize EoT with the following input arguments:
 - `inference-model`: The model used for communication, default is gpt-35-turbo-0301. We support all OpenAI models for EoT.
 - `communicator-num`: The number of participants in communication, default is 3.
 - `max-round`: The maximum number of communication rounds, default is 5, after which communication ends.
+
+### Tips
 
 We support APIs from OpenAI and Azure. We recommend using Azure's API to avoid potential instability with OpenAI's API.
 
